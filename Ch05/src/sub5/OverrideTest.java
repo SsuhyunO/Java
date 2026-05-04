@@ -67,7 +67,7 @@ public class OverrideTest {
 		poter.speedUp(200);
 		poter.show();
 		
-		// Animal override 실습
+		// Animal Override 실습
 		Dog dog = new Dog();
 		dog.sound();
 		

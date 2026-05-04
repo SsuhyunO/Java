@@ -1,7 +1,7 @@
 package sub5;
 
 public class Animal {
-	protected void sound() {
+	public void sound() {
 		System.out.println("Animal Sound!");
 	}
 }
